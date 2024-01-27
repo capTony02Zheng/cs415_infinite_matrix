@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health_and_Score.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/heart.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/m_heart.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/heart.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/CapTOZ/Desktop/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/bullet.uasset"
+			]
+		}
+	]
+}
